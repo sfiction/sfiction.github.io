@@ -1,0 +1,12 @@
+*.*
+!*.md
+
+/*
+!/_config.yml
+!/source
+!/scaffolds
+!/themes
+/themes/*
+!/themes/next
+/themes/next/*
+!/themes/next/_config.yml
